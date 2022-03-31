@@ -1,3 +1,3 @@
 # hello_deeplearning
 
-한글말도
+# Project 주제선정
