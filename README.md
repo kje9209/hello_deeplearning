@@ -1,3 +1,2 @@
-# hello_deeplearning
-
-# Project 주제선정
+# 확률이론기반정보처리특론
+## Project 주제선정
