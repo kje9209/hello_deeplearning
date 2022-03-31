@@ -1,3 +1,3 @@
 # hello_deeplearning
 
-Hi i'm Kang
+한글말도
